@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-commerth/static/css/main.f48c88d1.css",
+    "main.js": "/E-commerth/static/js/main.59574d67.js",
+    "static/media/Form.jpg": "/E-commerth/static/media/Form.8b152378d7ca1daa7ffc.jpg",
+    "static/media/Upload-PNG-HD-Image.png": "/E-commerth/static/media/Upload-PNG-HD-Image.77e0e4b5cba14826d23e.png",
+    "index.html": "/E-commerth/index.html",
+    "main.f48c88d1.css.map": "/E-commerth/static/css/main.f48c88d1.css.map",
+    "main.59574d67.js.map": "/E-commerth/static/js/main.59574d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48c88d1.css",
+    "static/js/main.59574d67.js"
+  ]
+}
